@@ -1,0 +1,6 @@
+seeds = 0
+diameter = 7
+skin_smell
+color is orange
+#goal prove citrus_fruit
+#السطور اللي مكتوبه قبلها # امسحها بايديك عادي من غير كود
